@@ -1,0 +1,4 @@
+numpy
+pandas
+scipy
+# download only (scripts/download_data.py): yfinance
