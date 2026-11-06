@@ -1,6 +1,6 @@
 # Factor Lab — Cross-Sectional Factor Research on the NIFTY 50
 
-![python](https://img.shields.io/badge/python-3.10%2B-blue) ![tests](https://img.shields.io/badge/tests-24%20passing-brightgreen) ![data](https://img.shields.io/badge/data-Yahoo%20Finance%20(real)-orange) ![license](https://img.shields.io/badge/license-MIT-lightgrey)
+![python](https://img.shields.io/badge/python-3.10%2B-blue) ![tests](https://img.shields.io/badge/tests-24%20passing-brightgreen) ![data](https://img.shields.io/badge/data-Yahoo%20Finance%20(real)-orange) ![license](https://img.shields.io/badge/license-MIT-lightgrey) ![release](https://img.shields.io/github/v/release/risootooo/factor-lab)
 
 **Four classic equity factors — Value, Momentum, Quality, Low-Volatility — built Fama-French style on real Indian large-cap data, run through quintile long-short portfolios, IC analysis and Fama-MacBeth regressions. Headline result: after costs and a Bonferroni correction, *none* of them survives in the NIFTY 50 over 2016–2026 — and Low-Volatility, the textbook anomaly, is a significantly *negative* premium in India. This repo publishes that, with the receipts.**
 
